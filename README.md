@@ -1,7 +1,5 @@
 ## Hi, I'm Zainab 👋  
 
-<!--
-**zainabintech/zainabintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 Cybersecurity Senior Student | Security Engineer  
 
