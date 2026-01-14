@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me  
 
-I specialise in defensive security while continuously enhancing my offensive security skills.
+I specialise in defensive security and I am also continuously enhancing my offensive security skills.
 I enjoy learning how systems work, how attacks happen, and how to protect against them.
 
 I also like to learn new technologies and work on different kinds of projects that are sometimes not specifically cybersecurity-related.
