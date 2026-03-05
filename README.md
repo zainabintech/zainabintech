@@ -1,11 +1,4 @@
-## Hi, I'm Zainab 👋  
-
-
-🎓 Cybersecurity Senior Student 
-
----
-
-## 👩‍💻 About Me  
+## Hi, I'm Zainab 
 
 I enjoy learning how systems work, how attacks happen, and how to protect against them.
 
